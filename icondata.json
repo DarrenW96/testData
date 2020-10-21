@@ -72,6 +72,78 @@
 			"name": "About",
 			"img": "https:\/\/cdn.onlinewebfonts.com\/svg\/img_217000.png",
 			"seq": 4
+		},
+		{
+			"cid": 1,
+			"name": "Restaurant",
+			"img": "https:\/\/cdn.onlinewebfonts.com\/svg\/img_217000.png",
+			"seq": 4
+		}, 
+		{
+			"cid": 2,
+			"name": "Utilities",
+			"img": "https:\/\/cdn0.iconfinder.com\/data\/icons\/roundettes-for-os-x-vol-v\/512\/Utilities-512.png",
+			"seq": 3
+		},
+		{
+			"cid": 3,
+			"name": "About",
+			"img": "https:\/\/cdn.onlinewebfonts.com\/svg\/img_217000.png",
+			"seq": 4
+		},
+		{
+			"cid": 1,
+			"name": "Restaurant",
+			"img": "https:\/\/cdn.onlinewebfonts.com\/svg\/img_217000.png",
+			"seq": 4
+		}, 
+		{
+			"cid": 2,
+			"name": "Utilities",
+			"img": "https:\/\/cdn0.iconfinder.com\/data\/icons\/roundettes-for-os-x-vol-v\/512\/Utilities-512.png",
+			"seq": 3
+		},
+		{
+			"cid": 3,
+			"name": "About",
+			"img": "https:\/\/cdn.onlinewebfonts.com\/svg\/img_217000.png",
+			"seq": 4
+		},
+		{
+			"cid": 1,
+			"name": "Restaurant",
+			"img": "https:\/\/cdn.onlinewebfonts.com\/svg\/img_217000.png",
+			"seq": 4
+		}, 
+		{
+			"cid": 2,
+			"name": "Utilities",
+			"img": "https:\/\/cdn0.iconfinder.com\/data\/icons\/roundettes-for-os-x-vol-v\/512\/Utilities-512.png",
+			"seq": 3
+		},
+		{
+			"cid": 3,
+			"name": "About",
+			"img": "https:\/\/cdn.onlinewebfonts.com\/svg\/img_217000.png",
+			"seq": 4
+		},
+		{
+			"cid": 1,
+			"name": "Restaurant",
+			"img": "https:\/\/cdn.onlinewebfonts.com\/svg\/img_217000.png",
+			"seq": 4
+		}, 
+		{
+			"cid": 2,
+			"name": "Utilities",
+			"img": "https:\/\/cdn0.iconfinder.com\/data\/icons\/roundettes-for-os-x-vol-v\/512\/Utilities-512.png",
+			"seq": 3
+		},
+		{
+			"cid": 3,
+			"name": "About",
+			"img": "https:\/\/cdn.onlinewebfonts.com\/svg\/img_217000.png",
+			"seq": 4
 		}
 	]
 }
