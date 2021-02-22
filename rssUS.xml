@@ -7,11 +7,11 @@
 		<atom:link href='https://trends.google.com/trends/trendingsearches/daily/rss?geo=US' rel='self' type='application/rss+xml'/>
 		<item>
 			<title>Daft Punk</title>
-			<ht:approx_traffic>500,000+</ht:approx_traffic>
+			<ht:approx_traffic>1,000,000+</ht:approx_traffic>
 			<description></description>
 			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Daft%20Punk</link>
 			<pubDate>Mon, 22 Feb 2021 08:00:00 -0800</pubDate>
-			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcTjSzSsFDjb6J-gYeHuguq-Ub4E6ocpIZd_0DYolh_quDQK9jW8rI33GsrsYkO09XOckJ70rJGR</ht:picture>
+			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcSHCzrp9LShGIhUF2u5FyeLS967VflTPwXy7wMWX1E4XBSH-JvSh13yFS5FaXHPKdCHgT-vL3K1</ht:picture>
 			<ht:picture_source>Pitchfork</ht:picture_source>
 			<ht:news_item>
 				<ht:news_item_title>Daft Punk Break Up</ht:news_item_title>
@@ -20,7 +20,7 @@
 				<ht:news_item_source>Pitchfork</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Daft Punk Announce Breakup After 28 Years</ht:news_item_title>
+				<ht:news_item_title>Daft Punk Announces Breakup After 28 Years</ht:news_item_title>
 				<ht:news_item_snippet>The enigmatic, influential French electronic-music duo released four albums and collected six Grammys throughout a career marked by a disinterest in fame.</ht:news_item_snippet>
 				<ht:news_item_url>https://www.nytimes.com/2021/02/22/arts/music/daft-punk-breakup.html</ht:news_item_url>
 				<ht:news_item_source>The New York Times</ht:news_item_source>
@@ -28,17 +28,17 @@
 		</item>
 		<item>
 			<title>Bobby Shmurda</title>
-			<ht:approx_traffic>200,000+</ht:approx_traffic>
+			<ht:approx_traffic>500,000+</ht:approx_traffic>
 			<description></description>
 			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Bobby%20Shmurda</link>
 			<pubDate>Mon, 22 Feb 2021 06:00:00 -0800</pubDate>
-			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcRhVOBw1OLOC6OZa3MtqaLB_dLGHp6FG1TWESAEa9L4VOuUDeNCck1oefJp1VPWvQAlpZkH4EPi</ht:picture>
-			<ht:picture_source>REVOLT TV</ht:picture_source>
+			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcT3qVrU9QQXpq_UsAKpH1UGazmxDrE5vP30wPCjhHWpaXPB6KWA8kCxjWzB3SIafAxy9ISrcvQN</ht:picture>
+			<ht:picture_source>NPR</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Bobby Shmurda will be released from prison as early as tomorrow</ht:news_item_title>
-				<ht:news_item_snippet>Shmurda was initially arrested in 2014 on gang conspiracy, gun and drug charges. Two years later, the Brooklyn native pleaded guilty to 4th-degree conspiracy&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.revolt.tv/news/2021/2/22/22295101/bobby-shmurda-early-prison-release</ht:news_item_url>
-				<ht:news_item_source>REVOLT TV</ht:news_item_source>
+				<ht:news_item_title>Bobby Shmurda Is Coming Home. What Happens Next?</ht:news_item_title>
+				<ht:news_item_snippet>The rapper who ignited Brooklyn with his 2014 viral hit &amp;quot;Hot Boy&amp;quot; is set to be released from prison Tuesday. Louder Than A Riot hosts Rodney Carmichael and&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.npr.org/2021/02/22/969404434/bobby-shmurda-is-coming-home-what-happens-next</ht:news_item_url>
+				<ht:news_item_source>NPR</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>Bobby Shmurda reveals plans ahead of release from 6-year prison ...</ht:news_item_title>
@@ -53,75 +53,24 @@
 			<description></description>
 			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Epic</link>
 			<pubDate>Mon, 22 Feb 2021 06:00:00 -0800</pubDate>
-			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcTdTGJPzSHzddB1r8bq-wexHL6qgreun9yMbBmv1yhu7cLw_jmChLdBK8KkAmOhZkmYgAZVKdmx</ht:picture>
-			<ht:picture_source>Reuters</ht:picture_source>
+			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcT--f2Mgo7EUS07C-l5wLGHSXgK_XRwK0IooRszS29ZkLYmPI8bpNMjeW4G_tG5uIWcv1pYTfLi</ht:picture>
+			<ht:picture_source>The Verge</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>UK court blocks &lt;b&gt;Epic&lt;/b&gt; Games from contesting Apple&amp;#39;s Fortnite ban</ht:news_item_title>
-				<ht:news_item_snippet>(Reuters) - The UK antitrust tribunal ruled on Monday that &lt;b&gt;Epic&lt;/b&gt; Games, the creator of popular game Fortnite, will not be allowed to pursue its case against Apple Inc in the United Kingdom over its App Store payment system and control over app downloads.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.reuters.com/article/us-apple-epic-games/uk-court-blocks-epic-games-from-contesting-apples-fortnite-ban-idUSKBN2AM270?il=0</ht:news_item_url>
-				<ht:news_item_source>Reuters</ht:news_item_source>
+				<ht:news_item_title>Epic Games will settle Fortnite loot box lawsuits in V-Bucks</ht:news_item_title>
+				<ht:news_item_snippet>Epic Games has proposed a preliminary settlement that would award Fortnite and Rocket League Players 1000 V-Bucks or credits if they ever purchased a&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.theverge.com/2021/2/22/22295676/epic-games-fortnite-loot-box-lawsuit-settlement-rocket-league-v-bucks</ht:news_item_url>
+				<ht:news_item_source>The Verge</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Epic Games Stopped From Pursuing Apple in the U.K. Over Fortnite ...</ht:news_item_title>
-				<ht:news_item_snippet>Epic Games Inc. was prevented from widening its fight with Apple Inc. over access to its popular Fortnite video game after a U.K. judge said the case couldn&amp;#39;t&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.bloomberg.com/news/articles/2021-02-22/epic-stopped-from-pursuing-apple-in-the-u-k-over-fortnite-ban</ht:news_item_url>
-				<ht:news_item_source>Bloomberg</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>Tesla stock</title>
-			<ht:approx_traffic>200,000+</ht:approx_traffic>
-			<description>apple stock</description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Tesla%20stock</link>
-			<pubDate>Mon, 22 Feb 2021 09:00:00 -0800</pubDate>
-			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcQlfqJucpj65PHTCQCDA3y11VhuuyOE8J5lYhGkOIk-alnhi5H9Bi40BfeTXxdQxL9Y69KgjRm9</ht:picture>
-			<ht:picture_source>Investor's Business Daily</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Dow Rallies In Mixed Session; Apple, Tesla Flash Sell Signals ...</ht:news_item_title>
-				<ht:news_item_snippet>The Dow Jones rallied into positive territory. Apple stock and Tesla stock flashed sell signals. Treasury Secretary Janet Yellen issued a Bitcoin warning.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.investors.com/market-trend/stock-market-today/dow-jones-rallies-apple-stock-tesla-stock-sell-signals-janet-yellen-bitcoin-warning/</ht:news_item_url>
-				<ht:news_item_source>Investor's Business Daily</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>CCIV stock</title>
-			<ht:approx_traffic>100,000+</ht:approx_traffic>
-			<description>CCIV</description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#CCIV%20stock</link>
-			<pubDate>Mon, 22 Feb 2021 08:00:00 -0800</pubDate>
-			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcRQwhdR6G3Cz6UcGBu3Qg7-lREu0Beawg400NIQIqw769ABO16INicd9ZIeUB0iBDWb5MoZpF9m</ht:picture>
-			<ht:picture_source>InvestorsObserver</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Where Does Churchill Capital Corp IV (CCIV) Stock Fall in the Shell ...</ht:news_item_title>
-				<ht:news_item_snippet>Churchill Capital Corp IV (CCIV) is near the top in its industry group according to InvestorsObserver. CCIV gets an overall rating of 29. That means it scores&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.investorsobserver.com/news/stock-update/where-does-churchill-capital-corp-iv-cciv-stock-fall-in-the-shell-companies-field-after-it-has-gained-49-65-this-week</ht:news_item_url>
-				<ht:news_item_source>InvestorsObserver</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Churchill Capital IV soars on confidence in SPAC deal with Lucid ...</ht:news_item_title>
-				<ht:news_item_snippet>Churchill Capital IV (CCIV) stock soars on reports of a SPAC deal with Lucid Motors. Read more about how investors view the Churchill Capital-Lucid Motors&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://seekingalpha.com/news/3664267-churchill-capital-iv-soars-on-confidence-in-spac-deal-with-lucid-motors</ht:news_item_url>
-				<ht:news_item_source>Seeking Alpha</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>Docs</title>
-			<ht:approx_traffic>100,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Docs</link>
-			<pubDate>Mon, 22 Feb 2021 10:00:00 -0800</pubDate>
-			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcRbQhBu_sDdPe-2LUUxmhBSKVnVc9vhgY2VTNWijlS3VQ_yBnGKTSYY6F36fRE3k07_8a1o9Tix</ht:picture>
-			<ht:picture_source>Variety</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Hot Docs Executive Director Brett Hendrie Moves On After 20 Years ...</ht:news_item_title>
-				<ht:news_item_snippet>Under Hendrie&amp;#39;s tenure, the festival grew to record audiences of 228,000 and the value of filmmaker awards and prizes reached CAD$305,000 ($241,700),&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://variety.com/2021/film/global/hot-docs-director-brett-hendrie-moves-on-1234912210/</ht:news_item_url>
-				<ht:news_item_source>Variety</ht:news_item_source>
+				<ht:news_item_title>Epic Games&amp;#39; New Hire Has Investors Asking Questions</ht:news_item_title>
+				<ht:news_item_snippet>According to Nielsen&amp;#39;s video-gaming research company SuperData, Fortnite surpassed $1.8 billion in revenue in 2019 and was the highest-grossing game that&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.fool.com/investing/2021/02/22/epic-games-recent-hire-is-raising-eyebrows/</ht:news_item_url>
+				<ht:news_item_source>Motley Fool</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
 			<title>Spencer Jones</title>
-			<ht:approx_traffic>100,000+</ht:approx_traffic>
+			<ht:approx_traffic>200,000+</ht:approx_traffic>
 			<description>spencer jones oklahoma</description>
 			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Spencer%20Jones</link>
 			<pubDate>Mon, 22 Feb 2021 10:00:00 -0800</pubDate>
@@ -134,10 +83,67 @@
 				<ht:news_item_source>247Sports</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Oklahoma&amp;#39;s Spencer Jones nearly loses an eye after getting in fight ...</ht:news_item_title>
-				<ht:news_item_snippet>Oklahoma Sooners holder Spencer Jones found himself getting tangled up in a fight against a guy who reportedly had MMA experience.</ht:news_item_snippet>
-				<ht:news_item_url>https://clutchpoints.com/oklahoma-spencer-jones-nearly-loses-an-eye-after-getting-in-fight-with-mma-trained-man-at-a-bar/</ht:news_item_url>
-				<ht:news_item_source>ClutchPoints</ht:news_item_source>
+				<ht:news_item_title>Spencer Jones, Oklahoma receiver, nearly loses eye after bar ...</ht:news_item_title>
+				<ht:news_item_snippet>Jones, an Oklahoma wide receiver, got into a bar-room brawl and took the worst of it, absorbing shots to the face and getting taken down in a chokehold.</ht:news_item_snippet>
+				<ht:news_item_url>https://nypost.com/2021/02/22/spencer-jones-nearly-loses-eye-in-bathroom-bar-fight/</ht:news_item_url>
+				<ht:news_item_source>New York Post</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>CCIV stock</title>
+			<ht:approx_traffic>200,000+</ht:approx_traffic>
+			<description>CCIV</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#CCIV%20stock</link>
+			<pubDate>Mon, 22 Feb 2021 08:00:00 -0800</pubDate>
+			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcR23C0XbOPxlPefW9zsTTa8NnGbCQp5nNdWQJ5PpAuDXd2Gk2d-S4DxdjWSl8lEDXAQN7uQ-DC_</ht:picture>
+			<ht:picture_source>Investorplace.com</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Churchill Capital IV Stock Is a Buy Despite Recent Run-Up</ht:news_item_title>
+				<ht:news_item_snippet>Luxury electric vehicle manufacturer Lucid Motors is on the fast track to expansion, so CCIV stock is worth owning even at a high valuation.</ht:news_item_snippet>
+				<ht:news_item_url>https://investorplace.com/2021/02/cciv-stock-is-a-buy-despite-rumor-fueled-run-up/</ht:news_item_url>
+				<ht:news_item_source>Investorplace.com</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Churchill And Lucid: Wait For A Better Entry Point</ht:news_item_title>
+				<ht:news_item_snippet>Rumors have been circulating of a merger between Churchill Capital and Lucid Motors, a maker of luxury electric vehicles.</ht:news_item_snippet>
+				<ht:news_item_url>https://seekingalpha.com/article/4408013-churchill-lucid-wait-for-better-entry-point</ht:news_item_url>
+				<ht:news_item_source>Seeking Alpha</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Tesla stock</title>
+			<ht:approx_traffic>200,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Tesla%20stock</link>
+			<pubDate>Mon, 22 Feb 2021 11:00:00 -0800</pubDate>
+			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcRHHy8DF64xWiRNrxmqgEhL0N83-gOvRit2nk7Fjb_Qe-wYlrBr8KEOoCbMXeatGy9AOVNl8zOw</ht:picture>
+			<ht:picture_source>Investor's Business Daily</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Tesla Stock Dives After Latest Zigzag On Model Musk Never Wanted</ht:news_item_title>
+				<ht:news_item_snippet>Tesla appeared to stop taking orders for the cheapest version of the Model Y Standard Range sport utility vehicle. Tesla stock fell sharply.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.investors.com/news/tesla-stock-latest-zigzag-model-elon-musk-never-wanted/</ht:news_item_url>
+				<ht:news_item_source>Investor's Business Daily</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Tesla Stock: When Jim Cramer Would Buy the Dip</ht:news_item_title>
+				<ht:news_item_snippet>The company has reportedly stopped taking orders for the cheapest version of its Model Y electric SUV, and--according to Electrek--removed it from its online&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.thestreet.com/video/jim-cramers-advice-on-when-to-eye-tesla</ht:news_item_url>
+				<ht:news_item_source>TheStreet</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Docs</title>
+			<ht:approx_traffic>100,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Docs</link>
+			<pubDate>Mon, 22 Feb 2021 10:00:00 -0800</pubDate>
+			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcQgnTYpEVzcoZUIxOcwZYPdbzGF9YtfugmrO5Tzz_zgN6y2XvLgmoyVbQqqEeT2aOTSiiYLhUZI</ht:picture>
+			<ht:picture_source>Variety</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Hot Docs Executive Director Brett Hendrie Moves On After 20 Years ...</ht:news_item_title>
+				<ht:news_item_snippet>Under Hendrie&amp;#39;s tenure, the festival grew to record audiences of 228,000 and the value of filmmaker awards and prizes reached CAD$305,000 ($241,700),&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://variety.com/2021/film/global/hot-docs-director-brett-hendrie-moves-on-1234912210/</ht:news_item_url>
+				<ht:news_item_source>Variety</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -155,8 +161,8 @@
 				<ht:news_item_source>Washington Post</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Watch Live: Attorney General Nominee Merrick Garland Has ...</ht:news_item_title>
-				<ht:news_item_snippet>The federal judge, once denied a Supreme Court confirmation hearing by Republicans, faces lawmakers Monday for his nomination to lead the Justice&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_title>Garland Says Jan. 6 Probe Would Be Top Priority If Confirmed As ...</ht:news_item_title>
+				<ht:news_item_snippet>The federal judge, once denied a Supreme Court confirmation hearing by Republicans, faced lawmakers Monday for his nomination to lead the Justice&amp;nbsp;...</ht:news_item_snippet>
 				<ht:news_item_url>https://www.npr.org/2021/02/22/969423928/bidens-pick-for-attorney-general-merrick-garland-set-for-confirmation-hearing</ht:news_item_url>
 				<ht:news_item_source>NPR</ht:news_item_source>
 			</ht:news_item>
@@ -167,45 +173,45 @@
 			<description></description>
 			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#National%20Margarita%20Day</link>
 			<pubDate>Mon, 22 Feb 2021 07:00:00 -0800</pubDate>
-			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcTy4ikJH7SdtdgK5pvp1o7OD7_nWWFpxnr2oBmlNLr3j1IRAK-H47V6dyX63zjSg8BqRLv0_LXx</ht:picture>
-			<ht:picture_source>USA TODAY</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>National Margarita Day 2021 brings drink specials and tequila deals ...</ht:news_item_title>
-				<ht:news_item_snippet>Feb. 22 is National Margarita Day or Margarita Monday. But the made-up day is different amid the COVID pandemic. Chili&amp;#39;s has several margarita deals.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.usatoday.com/story/money/restaurants/2021/02/22/margarita-day-2021-specials-cheap-drink-deals-coronavirus/4537866001/</ht:news_item_url>
-				<ht:news_item_source>USA TODAY</ht:news_item_source>
-			</ht:news_item>
+			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcSqpth52k6-VHelCLVfORTK0VMIWikq73BAdut85WURLYfEvmobPVf5iMGSvVu-URfjw_hLeSJF</ht:picture>
+			<ht:picture_source>Washingtonian</ht:picture_source>
 			<ht:news_item>
 				<ht:news_item_title>8 National Margarita Day Specials Around DC—to Stay or Go</ht:news_item_title>
 				<ht:news_item_snippet>Special deals on everything from specially-flavored margaritas to pitchers from DC-area restaurants offering margaritas to stay or go.</ht:news_item_snippet>
 				<ht:news_item_url>https://www.washingtonian.com/2021/02/22/national-margarita-day-specials-around-dc-takeout-delivery/</ht:news_item_url>
 				<ht:news_item_source>Washingtonian</ht:news_item_source>
 			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>National Margarita Day 2021 brings drink specials and tequila deals ...</ht:news_item_title>
+				<ht:news_item_snippet>Feb. 22 is National Margarita Day or Margarita Monday. But the made-up day is different amid the COVID pandemic. Chili&amp;#39;s has several margarita deals.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.usatoday.com/story/money/restaurants/2021/02/22/margarita-day-2021-specials-cheap-drink-deals-coronavirus/4537866001/</ht:news_item_url>
+				<ht:news_item_source>USA TODAY</ht:news_item_source>
+			</ht:news_item>
 		</item>
 		<item>
-			<title>76ers</title>
+			<title>GME stock</title>
 			<ht:approx_traffic>100,000+</ht:approx_traffic>
-			<description>Sixers</description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#76ers</link>
-			<pubDate>Mon, 22 Feb 2021 06:00:00 -0800</pubDate>
-			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcSRGeyJlJqppBMn4ACb7ivG2F4KMNKFb-JSHWNFAk4x_dIgOcQ7rojcj8HZ8VbR32wgS95N1rkp</ht:picture>
-			<ht:picture_source>The Philadelphia Inquirer</ht:picture_source>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#GME%20stock</link>
+			<pubDate>Mon, 22 Feb 2021 14:00:00 -0800</pubDate>
+			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcR7fgenEOYROU5Jn9jPaGnwmWIR1_1vhkYSVXhMGdm4wmOBc330AaI2zavfBQbyvV6vjj6A_X70</ht:picture>
+			<ht:picture_source>The Wall Street Journal</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>The Sixers miss a lot of open shots, and Ben Simmons is on a roll ...</ht:news_item_title>
-				<ht:news_item_snippet>The Sixers&amp;#39; bench was outscored, 35-16, for the second consecutive game.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.inquirer.com/sixers/sixers-raptors-joel-embiid-simmons-20210222.html</ht:news_item_url>
-				<ht:news_item_source>The Philadelphia Inquirer</ht:news_item_source>
+				<ht:news_item_title>GameStop Shares Jump After Reddit Legend Keith Gill Doubles Down</ht:news_item_title>
+				<ht:news_item_snippet>The market action comes after Reddit user Keith Gill disclosed late Friday that he bought more of the retailer&amp;#39;s stock.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.wsj.com/articles/gamestop-shares-surge-after-reddit-legend-keith-gill-doubles-down-11614008117</ht:news_item_url>
+				<ht:news_item_source>The Wall Street Journal</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Raptors Present Joel Embiid With Most Aggressive Defence He&amp;#39;s ...</ht:news_item_title>
-				<ht:news_item_snippet>The Toronto Raptors swarmed Joel Embiid whenever he got the ball inside, mucking up the offensive plan for the Philadelphia 76ers on Sunday night.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.si.com/nba/raptors/news/toronto-raptors-slow-joel-embiid-philadelphia-76ers</ht:news_item_url>
-				<ht:news_item_source>Sports Illustrated</ht:news_item_source>
+				<ht:news_item_title>GameStop Stock Jumps as &amp;#39;Roaring Kitty&amp;#39; Weighs In</ht:news_item_title>
+				<ht:news_item_snippet>Keith Gill offered his first update on his holdings of the videogame retailer since Feb. 3. \</ht:news_item_snippet>
+				<ht:news_item_url>https://www.barrons.com/articles/gamestop-stock-jumps-as-roaring-kitty-weighs-in-51614010779</ht:news_item_url>
+				<ht:news_item_source>Barron's</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
 			<title>NIO stock</title>
-			<ht:approx_traffic>50,000+</ht:approx_traffic>
+			<ht:approx_traffic>100,000+</ht:approx_traffic>
 			<description></description>
 			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#NIO%20stock</link>
 			<pubDate>Mon, 22 Feb 2021 09:00:00 -0800</pubDate>
@@ -217,6 +223,138 @@
 				<ht:news_item_url>https://www.fool.com/investing/2021/02/22/why-nio-stock-is-down-today/</ht:news_item_url>
 				<ht:news_item_source>Motley Fool</ht:news_item_source>
 			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Nio Stock Bearish Momentum With A 5% Fall So Far Today | Via News</ht:news_item_title>
+				<ht:news_item_snippet>Shares of Nio slid 5.52% to $52.00 at 14:54 EST on Monday, following last session&amp;#39;s upward trend. NYSE Composite is jumping 0.37% to $15,419.55, following&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://via.news/markets/nio-stock-bearish-momentum-with-a-5-fall-so-far-today/</ht:news_item_url>
+				<ht:news_item_source>Via News Agency</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Neera Tanden</title>
+			<ht:approx_traffic>100,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Neera%20Tanden</link>
+			<pubDate>Mon, 22 Feb 2021 12:00:00 -0800</pubDate>
+			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcR6gdMXE7YCCxz7-xbwTwc3L1BkDj_eE8d1bUac4stFk7vzT27f57etoSyl9iHxLqyXNe1dwITh</ht:picture>
+			<ht:picture_source>Politico</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Neera Tanden in deeper jeopardy as 2 Republicans oppose her ...</ht:news_item_title>
+				<ht:news_item_snippet>Neera Tanden&amp;#39;s nomination to be President Joe Biden&amp;#39;s budget chief is in even more trouble. Sens. Susan Collins and Mitt Romney said on Monday they will&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.politico.com/news/2021/02/22/collins-oppose-tanden-jeopardize-nomination-470801</ht:news_item_url>
+				<ht:news_item_source>Politico</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Collins, Romney Deliver New Blow To Tanden&amp;#39;s Nomination To ...</ht:news_item_title>
+				<ht:news_item_snippet>The centrist Republicans&amp;#39; opposition to Neera Tanden taking the helm of the Office of Management and Budget comes after one Democratic senator also said he&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.npr.org/2021/02/22/970227939/collins-romney-deliver-new-blow-to-tandens-nomination-to-lead-omb</ht:news_item_url>
+				<ht:news_item_source>NPR</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>BTC</title>
+			<ht:approx_traffic>100,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#BTC</link>
+			<pubDate>Mon, 22 Feb 2021 14:00:00 -0800</pubDate>
+			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcTHnQcyz005KYA1qd4T4tyBkjSEuQHqZUTkkLbVf9MdtPkZYH7_CaUHRO5xUKV6PhOUkN-AlPzI</ht:picture>
+			<ht:picture_source>Yahoo Finance</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Bitcoin Briefly Drops Below $48K as Analysts Say Rally Overdone ...</ht:news_item_title>
+				<ht:news_item_snippet>Bitcoin, the top cryptocurrency by market value, rebounded to above $53,000 as of 15:12 UTC, representing a roughly 7% drop over 24 hours, according to&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://finance.yahoo.com/news/bitcoin-drops-5-analysts-rally-121417462.html</ht:news_item_url>
+				<ht:news_item_source>Yahoo Finance</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Bitcoin plunges 17% as record-shattering rally succumbs to ...</ht:news_item_title>
+				<ht:news_item_snippet>Jaap Arriens/NurPhoto via Getty Images Bitcoin tumbled as much as 17% on Monday after hitting a record above $58000 over the weekend. On Sun...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.businessinsider.com/bitcoin-price-plunges-valuation-fears-after-record-shattering-rally-2021-2</ht:news_item_url>
+				<ht:news_item_source>Business Insider</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>TSLA</title>
+			<ht:approx_traffic>100,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#TSLA</link>
+			<pubDate>Mon, 22 Feb 2021 08:00:00 -0800</pubDate>
+			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcS4kMa9L2IHzoEDjF8d1a3sVwTAgQ0cZwaKjoFz7iMZ3lq-Y551rng_VD3r01Dr05KKIcNrvhHd6w</ht:picture>
+			<ht:picture_source>Seeking Alpha</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Tesla leads electric vehicle sector down as investors test drive value ...</ht:news_item_title>
+				<ht:news_item_snippet>Tesla (TSLA) fell sharply on a day that other electric vehicle stocks like GreenPower (GP), Lordstown Motors (RIDE), XPeng (XPEV) amd Canoo also dropped.</ht:news_item_snippet>
+				<ht:news_item_url>https://seekingalpha.com/news/3664556-tesla-leads-electric-vehicle-sector-down-as-investors-test-drive-value-stocks</ht:news_item_url>
+				<ht:news_item_source>Seeking Alpha</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Asia Set To Boost Tesla&amp;#39;s Energy Storage Numbers</ht:news_item_title>
+				<ht:news_item_snippet>Tesla made strong progress worldwide in energy storage business in 2020. Asian economic growth and government policies will give further spur to Tesla&amp;#39;s&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://seekingalpha.com/article/4407903-asia-set-to-boost-tesla-energy-storage-numbers</ht:news_item_url>
+				<ht:news_item_source>Seeking Alpha</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>76ers</title>
+			<ht:approx_traffic>100,000+</ht:approx_traffic>
+			<description>Sixers</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#76ers</link>
+			<pubDate>Mon, 22 Feb 2021 06:00:00 -0800</pubDate>
+			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcRxGo2UdfVUM24JwkP1Ac6bCisIz7KuGFfDH6BeCqdfqXvRNKvi62B9YRAVOGkMoVfxFM1tVK85</ht:picture>
+			<ht:picture_source>Sixers Wire</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Doc Rivers vows Sixers will fix their bench&amp;#39;s offensive issues</ht:news_item_title>
+				<ht:news_item_snippet>In the early part of the 2020-21 season, the Philadelphia 76ers received big boosts from their bench unit when the time called for it. They received big games&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://sixerswire.usatoday.com/2021/02/22/doc-rivers-vows-that-sixers-will-fix-their-benchs-offensive-issues/</ht:news_item_url>
+				<ht:news_item_source>Sixers Wire</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>76ers try to rebound to gain split with Raptors</ht:news_item_title>
+				<ht:news_item_snippet>The Philadelphia 76ers will be out to improve their shooting Tuesday night as they try to gain a split of their two-game set with the host Toronto Raptors at&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.northwestgeorgianews.com/fieldlevel/76ers-try-to-rebound-to-gain-split-with-raptors/article_ab13c1e5-8cdc-51a8-a4cc-3173141f6623.html</ht:news_item_url>
+				<ht:news_item_source>The Catoosa County News</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Apple stock</title>
+			<ht:approx_traffic>100,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Apple%20stock</link>
+			<pubDate>Mon, 22 Feb 2021 09:00:00 -0800</pubDate>
+			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcQcRecWJ8qjWdVoePvfzUPk-gRTv2qFq7lZN4nkaXZI6nYKShSQcMiV_xFkE_lxjD1FdicwXysp</ht:picture>
+			<ht:picture_source>Report Door</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Dow Rallies In Mixed Session; Apple, Tesla Flash Sell Signals ...</ht:news_item_title>
+				<ht:news_item_snippet>The Dow Jones rallied into positive territory. Apple stock and Tesla stock flashed sell signals. Treasury Secretary Janet Yellen issued a Bitcoin warning.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.investors.com/market-trend/stock-market-today/dow-jones-rallies-apple-stock-tesla-stock-sell-signals-janet-yellen-bitcoin-warning/</ht:news_item_url>
+				<ht:news_item_source>Investor's Business Daily</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Dow Jones Futures: Tech Stocks Sell Off As Tesla Stock Dives; 3 ...</ht:news_item_title>
+				<ht:news_item_snippet>Dow Jones futures, along with S&amp;amp;P 500 futures and Nasdaq 100 futures, were little changed late Monday after tech stocks sold off sharply. Bitcoin.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.reportdoor.com/dow-jones-futures-tech-stocks-sell-off-as-tesla-stock-dives-3-earnings-movers-late/</ht:news_item_url>
+				<ht:news_item_source>Report Door</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>S&amp;P 500</title>
+			<ht:approx_traffic>100,000+</ht:approx_traffic>
+			<description>Nasdaq</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#S%26P%20500</link>
+			<pubDate>Mon, 22 Feb 2021 13:00:00 -0800</pubDate>
+			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcTS2-7RnFna9ExhTeP0U47TCgSZvYp6-xPO_py_jS1WPBlhtAG2BoVnV14ygFCRxO9HIysqYrH0</ht:picture>
+			<ht:picture_source>Reuters</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>US STOCKS-Nasdaq, S&amp;amp;P 500 fall, pressured by rising U.S. ...</ht:news_item_title>
+				<ht:news_item_snippet>NEW YORK, Feb 22 (Reuters) - The S&amp;amp;P 500 and Nasdaq fell on Monday as climbing Treasury yields and prospects of rising inflation triggered valuation concerns&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.reuters.com/article/usa-stocks/us-stocks-nasdaq-sp-500-fall-pressured-by-rising-u-s-treasury-yields-idUSL4N2KS446</ht:news_item_url>
+				<ht:news_item_source>Reuters</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Bull trend pauses: S&amp;amp;P 500 traverses the range</ht:news_item_title>
+				<ht:news_item_snippet>U.S. stocks are mixed early Monday, vacillating as tech stocks turn lower, pressured at least partly amid recently surging Treasury yields. Against this...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.marketwatch.com/story/bull-trend-pauses-sp-500-traverses-the-range-2021-02-22</ht:news_item_url>
+				<ht:news_item_source>MarketWatch</ht:news_item_source>
+			</ht:news_item>
 		</item>
 		<item>
 			<title>Artemi Panarin</title>
@@ -224,7 +362,7 @@
 			<description></description>
 			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Artemi%20Panarin</link>
 			<pubDate>Mon, 22 Feb 2021 10:00:00 -0800</pubDate>
-			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcTR_Bf75T9IP-PeQ_FB9RCdgo0KuWLNPVbeoK91GmTpI5PRetSqfYXv2CLu4TpI8vHQwdf5KK4F</ht:picture>
+			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcSgasunIgyJ2DrXbffQNy47foIAAIYLW7FZNRgmhFAXhlD3vkk2GOO6EeUxlMi9yFjjOKFUjEtY</ht:picture>
 			<ht:picture_source>ESPN</ht:picture_source>
 			<ht:news_item>
 				<ht:news_item_title>New York Rangers&amp;#39; Artemi Panarin taking leave after assault ...</ht:news_item_title>
@@ -240,27 +378,6 @@
 			</ht:news_item>
 		</item>
 		<item>
-			<title>Coca-Cola</title>
-			<ht:approx_traffic>50,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Coca-Cola</link>
-			<pubDate>Mon, 22 Feb 2021 10:00:00 -0800</pubDate>
-			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcROL7EEpfmQAifYhTymjJedkNPO0mWSUc8NznW-SXkG7crDjEysd2KPmhLG-NZ99G6FXvGoaUHQ</ht:picture>
-			<ht:picture_source>My Modern Met</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Coca-Cola Unveils Its New Sustainable Paper Bottles Ready for ...</ht:news_item_title>
-				<ht:news_item_snippet>It&amp;#39;s no secret that plastic pollution poses a difficult problem for the planet. As consumers demand more sustainable options, brands are forced to make more&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://mymodernmet.com/coca-cola-paper-bottle/</ht:news_item_url>
-				<ht:news_item_source>My Modern Met</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Coca-Cola poised to acquire controlling interest in BodyArmor</ht:news_item_title>
-				<ht:news_item_snippet>The Coca-Cola Co. is poised to acquire a controlling stake in sports drink brand BodyArmor. The move comes after Coca-Cola invested $300m in BodyArmor in&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.sportbusiness.com/news/coca-cola-poised-to-acquire-controlling-interest-in-bodyarmor/</ht:news_item_url>
-				<ht:news_item_source>SportBusiness</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
 			<title>Jay-Z</title>
 			<ht:approx_traffic>50,000+</ht:approx_traffic>
 			<description></description>
@@ -269,136 +386,35 @@
 			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcSF2TrKAeowZfjIaHG4gpry63mMF3xHBp864e156KmcSz4r0pdhfdcIQldVqYJRWMrx8g2C0SFl</ht:picture>
 			<ht:picture_source>The New York Times</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Jay-Z Sells Half of Ace of Spades Champagne to LVMH</ht:news_item_title>
+				<ht:news_item_title>Jay-Z Sells Half of Ace of Spades Champagne Brand to LVMH</ht:news_item_title>
 				<ht:news_item_snippet>LVMH will acquire half of Armand de Brignac, Jay-Z&amp;#39;s Champagne line known as Ace of Spades.</ht:news_item_snippet>
 				<ht:news_item_url>https://www.nytimes.com/2021/02/22/style/jay-z-lvmh-ace-of-spades-champagne.html</ht:news_item_url>
 				<ht:news_item_source>The New York Times</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Jay-Z Turns Over 50% of Ace of Spades to Luxury Powerhouse LVMH</ht:news_item_title>
-				<ht:news_item_snippet>Armand de Brignac — which is widely known as “Ace of Spades” due to its logo — was launched by French Champagne company, Cattier, in 2006, then&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.rollingstone.com/pro/news/jay-z-ace-of-spades-champagne-lvmh-1131365/</ht:news_item_url>
-				<ht:news_item_source>Rolling Stone</ht:news_item_source>
+				<ht:news_item_title>Jay-Z and LVMH pop the cork in champagne tie-up</ht:news_item_title>
+				<ht:news_item_snippet>Rochelle Ritchie, former House Democrats Congressional press secretary, comedian Jimmy Failla and attorney Tyler Grant discuss how Jay-Z is facing backlash&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.foxbusiness.com/luxury/jay-z-and-lvmh-pop-the-cork-in-champagne-tie</ht:news_item_url>
+				<ht:news_item_source>Fox Business</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>Wilmer Valderrama</title>
+			<title>TSLA stock</title>
 			<ht:approx_traffic>50,000+</ht:approx_traffic>
 			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Wilmer%20Valderrama</link>
-			<pubDate>Mon, 22 Feb 2021 04:00:00 -0800</pubDate>
-			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcT2sBT3pMVw3Jz3wcIlpZ_Qb7wQfNxEPrFMEhS1xxPDX2y7otjLaNc5T3rhloZtkvtRMkfEhvRY</ht:picture>
-			<ht:picture_source>WSB Atlanta</ht:picture_source>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#TSLA%20stock</link>
+			<pubDate>Mon, 22 Feb 2021 09:00:00 -0800</pubDate>
 			<ht:news_item>
-				<ht:news_item_title>Wilmer Valderrama, fiancée Amanda Pacheco welcome baby girl</ht:news_item_title>
-				<ht:news_item_snippet>According to People magazine and USA Today, the &amp;quot;NCIS&amp;quot; and &amp;quot;That &amp;#39;70s Show&amp;quot; star announced Sunday that his fiancée, model Amanda Pacheco, recently&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.wsbtv.com/news/trending/wilmer-valderrama-fiance-amanda-pacheco-welcome-baby-girl/5RFHV4QXNBCIFD6G5I4UTCZXVE/</ht:news_item_url>
-				<ht:news_item_source>WSB Atlanta</ht:news_item_source>
+				<ht:news_item_title>Tesla leads electric vehicle sector down as investors test drive value ...</ht:news_item_title>
+				<ht:news_item_snippet>Tesla (TSLA) fell sharply on a day that other electric vehicle stocks like GreenPower (GP), Lordstown Motors (RIDE), XPeng (XPEV) amd Canoo also dropped.</ht:news_item_snippet>
+				<ht:news_item_url>https://seekingalpha.com/news/3664556-tesla-leads-electric-vehicle-sector-down-as-investors-test-drive-value-stocks</ht:news_item_url>
+				<ht:news_item_source>Seeking Alpha</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Wilmer Valderrama&amp;#39;s fiancée, Amanda Pacheco, gives birth to baby ...</ht:news_item_title>
-				<ht:news_item_snippet>Wilmer Valderrama and his fiancée, Amanda Pacheco, have welcomed a baby girl.</ht:news_item_snippet>
-				<ht:news_item_url>https://pagesix.com/2021/02/22/wilmer-valderramas-fiancee-amanda-pacheco-gives-birth/</ht:news_item_url>
-				<ht:news_item_source>Page Six</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>James Franco</title>
-			<ht:approx_traffic>20,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#James%20Franco</link>
-			<pubDate>Mon, 22 Feb 2021 03:00:00 -0800</pubDate>
-			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcSOVw14_bJD1Kityw3StBLykFLbBtUiJUkLf40OoYkS0sV6mPlYX5-7-gr0NNTCoGZ2OrRh2YVW</ht:picture>
-			<ht:picture_source>NPR</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Actors Involved In James Franco Suit Settle, Drop Claims</ht:news_item_title>
-				<ht:news_item_snippet>Two actors that had alleged the Oscar nominee&amp;#39;s acting school sexually exploited female students have reached a preliminary settlement agreement.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.npr.org/2021/02/22/970133637/actors-involved-in-james-franco-suit-settle-drop-claims</ht:news_item_url>
-				<ht:news_item_source>NPR</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>The James Franco Sexual-Misconduct Lawsuit Has Been Settled</ht:news_item_title>
-				<ht:news_item_snippet>In late 2019, nearly two years after five women leveled sexual-misconduct allegations against James Franco, two actresses who attended Franco&amp;#39;s now-defunct&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.thecut.com/2021/02/the-james-franco-sexual-misconduct-lawsuit-has-been-settled.html</ht:news_item_url>
-				<ht:news_item_source>The Cut</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>Martin Luther King Jr</title>
-			<ht:approx_traffic>20,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Martin%20Luther%20King%20Jr</link>
-			<pubDate>Mon, 22 Feb 2021 11:00:00 -0800</pubDate>
-			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcT3ZmeNSqbqQgt0iX-KfYIKZ_-kVS0M2LyHMe5NrnB7O7nI6M3uvlJfItfzd7CX5KYKC5_OBUY6</ht:picture>
-			<ht:picture_source>The Echo News</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>How Taylor celebrates MLK Jr. Day</ht:news_item_title>
-				<ht:news_item_snippet>Taylor hosted Martin Luther King Jr. Day programming amid national racial tension and a pandemic on Jan. 18.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.theechonews.com/article/2021/02/how-taylor-celebrates-mlk-jr-day</ht:news_item_url>
-				<ht:news_item_source>The Echo News</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>Meet</title>
-			<ht:approx_traffic>20,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Meet</link>
-			<pubDate>Mon, 22 Feb 2021 11:00:00 -0800</pubDate>
-			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcQOEtOnSPrcpBELtCmWdDr8tgj6wUQEGs_8CGe7Cn4Y6g1855QnJNQV9lVsfvBLXlniDwlnNdIG</ht:picture>
-			<ht:picture_source>KHOU.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Camaro driver charged after deadly crash at underground car meet ...</ht:news_item_title>
-				<ht:news_item_snippet>Two people were struck and killed — others were seriously hurt in the incident along Highway 290 in Harris County.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.khou.com/article/news/crime/deadly-car-meet-crash-on-290-harris-county-chevrolet-camaro-crashes-video/285-4883714f-23b8-4e3e-9f85-a423b6390a2a</ht:news_item_url>
-				<ht:news_item_source>KHOU.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>2 killed in &amp;#39;flyby&amp;#39; crash at car meet in northwest Harris County</ht:news_item_title>
-				<ht:news_item_snippet>A second person has now died, while another teen is in the hospital with serious injuries after a crash during a car meet around 9:35 p.m. Sunday in a parking lot&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://abc13.com/car-meet-northwest-harris-county-flyby-crash-whats-a-meets-houston/10360891</ht:news_item_url>
-				<ht:news_item_source>KTRK-TV</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>Zitkala-Sa</title>
-			<ht:approx_traffic>5,000,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Zitkala-Sa</link>
-			<pubDate>Sun, 21 Feb 2021 21:00:00 -0800</pubDate>
-			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcRBkOxviZsYbH_curmqUgotiAmAw6t1HSBUP_eYfexjcFmVGn1fBAs3f8uvnBrVNov0fkh36y1a</ht:picture>
-			<ht:picture_source>CNET</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Google Doodle celebrates writer and activist Zitkala-Sa</ht:news_item_title>
-				<ht:news_item_snippet>The Yankton Sioux tribe member worked to preserve traditional stories and to increase Native American self-governance.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.cnet.com/news/google-doodle-celebrates-writer-and-activist-zitkala-sa/</ht:news_item_url>
-				<ht:news_item_source>CNET</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Google Doodle honors Zitkala-Sa, American Indian composer and ...</ht:news_item_title>
-				<ht:news_item_snippet>Google is honoring Zitkala-Sa, a Native American musician, composer, and suffragist, with a homepage Doodle for her 145th birthday.</ht:news_item_snippet>
-				<ht:news_item_url>https://9to5google.com/2021/02/22/zitkala-sa-google-doodle/</ht:news_item_url>
-				<ht:news_item_source>9to5Google</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>Woody Allen</title>
-			<ht:approx_traffic>500,000+</ht:approx_traffic>
-			<description>Mia Farrow, Dylan Farrow, Ronan Farrow, allen v farrow</description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Woody%20Allen</link>
-			<pubDate>Sun, 21 Feb 2021 19:00:00 -0800</pubDate>
-			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcRniH8o2Bpom5OysYOt_b2EpcXXAQuVLBk2D-osjbIUpLrLmHa56v-FBUUgGp3_t4xoX4kz---X</ht:picture>
-			<ht:picture_source>The New York Times</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Woody Allen and Soon-Yi Previn Call HBO Docuseries a &amp;#39;Shoddy ...</ht:news_item_title>
-				<ht:news_item_snippet>The series, “Allen v. Farrow,” takes a fresh look at Dylan Farrow&amp;#39;s sexual abuse allegations against Mr. Allen, her adoptive father.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.nytimes.com/2021/02/22/arts/television/woody-allen-soon-yi-previn-hbo.html</ht:news_item_url>
-				<ht:news_item_source>The New York Times</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Woody Allen trashes HBO&amp;#39;s &amp;#39;Allen v. Farrow&amp;#39; as &amp;#39;hatchet job&amp;#39;</ht:news_item_title>
-				<ht:news_item_snippet>Soon-Yi is the adopted daughter of actress Mia Farrow and composer André Previn, whom Farrow married before dating Allen. Advertisement.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.latimes.com/entertainment-arts/tv/story/2021-02-22/woody-allen-hbo-documentary-response-soon-yi-previn</ht:news_item_url>
-				<ht:news_item_source>Los Angeles Times</ht:news_item_source>
+				<ht:news_item_title>Nasdaq Drops on Tesla (TSLA) Sell-Off, but From High Valuation</ht:news_item_title>
+				<ht:news_item_snippet>The Nasdaq hived off a full 2.46% on the day -- its worst single-day performance since January 27, and closed at a three-week low.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.zacks.com/stock/news/1267636/nasdaq-drops-on-tesla-tsla-sell-off-but-from-high-valuation?art_rec=home-home-top_stories-ID03-img-1267636</ht:news_item_url>
+				<ht:news_item_source>Zacks.com</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
