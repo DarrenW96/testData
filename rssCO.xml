@@ -27,6 +27,27 @@
 			</ht:news_item>
 		</item>
 		<item>
+			<title>Juventus</title>
+			<ht:approx_traffic>50,000+</ht:approx_traffic>
+			<description>juventus vs. crotone</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CO#Juventus</link>
+			<pubDate>Mon, 22 Feb 2021 15:00:00 -0500</pubDate>
+			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcTfSU1RdRjmy8hFgtEVTsuqGj9Ngb6n48Uw7i33nKRyRU1Itbu7yTJ-1nKE_LkMNE0nU9bn_P7x</ht:picture>
+			<ht:picture_source>ESPN</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Cristiano reactiva a la &lt;b&gt;Juventus&lt;/b&gt;</ht:news_item_title>
+				<ht:news_item_snippet>El portugués Cristiano Ronaldo reactivó este lunes al &lt;b&gt;Juventus&lt;/b&gt; Turín con un doblete de cabeza en el triunfo por 3-0 contra el colista Crotone en el partido que cerró el programa de la vigésima tercera jornada, después de las derrotas sufridas contra el&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>http://www.espn.com.co/futbol/reporte?juegoId=582931</ht:news_item_url>
+				<ht:news_item_source>ESPN</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Juventus vs. Crotone: ¿dónde ver el partido por la Serie A?</ht:news_item_title>
+				<ht:news_item_snippet>Juventus recibe este lunes a Crotone por la fecha 23 de la Liga de Italia, duelo que no contará con Juan Guillermo Cuadrado por lesión. Quien sí estará&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.semana.com/deportes/futbol/articulo/juventus-vs-crotone-donde-ver-el-partido-por-la-serie-a/202158/</ht:news_item_url>
+				<ht:news_item_source>Semana.com</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
 			<title>Ingreso Solidario</title>
 			<ht:approx_traffic>50,000+</ht:approx_traffic>
 			<description>ingreso solidario consultar</description>
@@ -48,27 +69,6 @@
 			</ht:news_item>
 		</item>
 		<item>
-			<title>Juventus</title>
-			<ht:approx_traffic>20,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CO#Juventus</link>
-			<pubDate>Mon, 22 Feb 2021 16:00:00 -0500</pubDate>
-			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcQwzE3eyHzAjGwPD8SQK5qNmFpQ2YrofoFXX4jxAsgHBuoj5Mveg2lDTV1XrRcSHjvB3vtJBqhU</ht:picture>
-			<ht:picture_source>Semana.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Juventus vs. Crotone: ¿dónde ver el partido por la Serie A?</ht:news_item_title>
-				<ht:news_item_snippet>Juventus recibe este lunes a Crotone por la fecha 23 de la Liga de Italia, duelo que no contará con Juan Guillermo Cuadrado por lesión. Quien sí estará&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.semana.com/deportes/futbol/articulo/juventus-vs-crotone-donde-ver-el-partido-por-la-serie-a/202158/</ht:news_item_url>
-				<ht:news_item_source>Semana.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>¡Implacable! Los goles de Cristiano Ronaldo en la victoria de ...</ht:news_item_title>
-				<ht:news_item_snippet>Luego de su derrota por UEFA Champions League ante el Porto, CR7 le da el triunfo a la Vecchia Signora por la jornada 23 del torneo local.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.espn.com.co/futbol/italia/nota/_/id/8226308/serie-a-juventus-vs-crotone-cristiano-ronaldo-paulo-dybala-rodrigo-bentancur-juan-guillermo-cuadrado-goles-cabezazos-golazos-cr7-cristiano</ht:news_item_url>
-				<ht:news_item_source>ESPN</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
 			<title>Atalanta</title>
 			<ht:approx_traffic>20,000+</ht:approx_traffic>
 			<description></description>
@@ -77,16 +77,16 @@
 			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcQIB4C4SkFOm8hgQdfftVFv7snr-pNjPjvfs7oYcPi28IYXOAi-0C4sHOhKtWJPvG1llHxj4Rzw</ht:picture>
 			<ht:picture_source>Marca Claro Colombia</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Pendientes en Atalanta: Real Madrid le tiene el &amp;#39;tirito&amp;#39; a los equipos ...</ht:news_item_title>
-				<ht:news_item_snippet>De los últimos once partidos frente a clubes de Italia, los del Real Madrid han ganado en diez oportunidades. Este miércoles se medirán por los octavos de final&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://gol.caracoltv.com/champions/pendientes-en-atalanta-real-madrid-le-tiene-el-tirito-a-los-equipos-italianos-en-champions</ht:news_item_url>
-				<ht:news_item_source>Gol Caracol</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
 				<ht:news_item_title>Luis Fernando Muriel, peligro número uno para el Real Madrid</ht:news_item_title>
 				<ht:news_item_snippet>El atacante colombiano Luis Fernando Muriel llega a la cita de este miércoles contra el Real Madrid en la ida de los octavos de final de la Champions...</ht:news_item_snippet>
 				<ht:news_item_url>https://co.marca.com/claro/futbol-internacional/champions-league/2021/02/22/6033cefb22601ddd488b45bb.html</ht:news_item_url>
 				<ht:news_item_source>Marca Claro Colombia</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>El hombre de moda en Italia: “Luis Fernando Muriel es un fenómeno ...</ht:news_item_title>
+				<ht:news_item_snippet>Thomas Manfredini, quien disputó más de cien partidos con el equipo de Bérgamo, opinó del presente del delantero atlanticense Luis Fernando Muriel.</ht:news_item_snippet>
+				<ht:news_item_url>https://gol.caracoltv.com/colombianos-en-el-exterior/el-hombre-de-moda-en-italia-luis-fernando-muriel-es-un-fenomeno-afirmo-un-exjugador-de-atalanta</ht:news_item_url>
+				<ht:news_item_source>Gol Caracol</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -102,27 +102,6 @@
 				<ht:news_item_snippet>Los estudiantes de la Universidad de Cartagena Keyla Cásseres Portela y Sebastián Villalba Pretel sufrieron un brutal accidente vial, bajo el Tunel de Crespo,&amp;nbsp;...</ht:news_item_snippet>
 				<ht:news_item_url>https://www.eltiempo.com/colombia/otras-ciudades/accidente-en-moto-deja-una-estudiante-de-la-u-de-cartagena-muerta-568572</ht:news_item_url>
 				<ht:news_item_source>ElTiempo.com</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>Newell's vs Boca Juniors</title>
-			<ht:approx_traffic>5,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CO#Newell's%20vs%20Boca%20Juniors</link>
-			<pubDate>Mon, 22 Feb 2021 00:00:00 -0500</pubDate>
-			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcQLpFI_8cmm1dkoqepoltBKNbujtvG2KXAq7xNGdnLb4S6e9qw6r8-9qprgZDTaKnzB2RRNQsBC</ht:picture>
-			<ht:picture_source>Antena 2</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Newell&amp;#39;s vs Boca Juniors: cómo y dónde ver el partido ONLINE EN ...</ht:news_item_title>
-				<ht:news_item_snippet>Lejos de lo esperado, Boca Juniors se cruza ante Newell&amp;#39;s Old Boys en el estadio Marcelo Bielsa por la segunda fecha del campeonato argentino. El debut del&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.antena2.com/futbol/superliga-argentina/newells-vs-boca-juniors-como-y-donde-ver-el-partido-online-en-vivo-0</ht:news_item_url>
-				<ht:news_item_source>Antena 2</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Con Carlos Zambrano, Boca Juniors sumó su primer triunfo de la ...</ht:news_item_title>
-				<ht:news_item_snippet>Boca Juniors de Carlos Zambrano venció 1-0 a Newell&amp;#39;s por la Copa de la Liga Profesional de Argentina.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.futbolperuano.com/peruanos-en-el-exterior/noticias/newells-vs-boca-juniors-en-vivo-con-carlos-zambrano-por-la-copa-de-la-liga-profesional-296233</ht:news_item_url>
-				<ht:news_item_source>Futbolperuano.com</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -147,6 +126,48 @@
 			</ht:news_item>
 		</item>
 		<item>
+			<title>Sevilla</title>
+			<ht:approx_traffic>5,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sevilla</link>
+			<pubDate>Mon, 22 Feb 2021 16:00:00 -0500</pubDate>
+			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcSGJ-i0H1KItkyqFnt6LDvjbLp0CqB84U-KKtG-1yCaMCYOATymg9fw6A4-13JvXPQepBVgcACX</ht:picture>
+			<ht:picture_source>Goal.com</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Osasuna vs. Sevilla en directo: resultado, alineaciones, polémicas ...</ht:news_item_title>
+				<ht:news_item_snippet>Diego Carlos de cabeza y De Jong de tacón le dan los tres puntos a los de Lopetegui en el Sadar frente a Osasuna. El Sevilla ha impuesto la ley del más fuerte&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.goal.com/es/noticias/osasuna-vs-sevilla-en-directo-resultado-alineaciones/114t5p7aeek6115r3a7c97ml9r</ht:news_item_url>
+				<ht:news_item_source>Goal.com</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Un sólido Sevilla vence a Osasuna y trepa al tercer puesto en La Liga</ht:news_item_title>
+				<ht:news_item_snippet>22 feb (Reuters) - El Sevilla sumó el lunes su quinta victoria consecutiva en La Liga con una contundente victoria 2-0 ante el Osasuna, lo que le permitió al&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.infobae.com/america/agencias/2021/02/22/un-solido-sevilla-vence-a-osasuna-y-trepa-al-tercer-puesto-en-la-liga-2/</ht:news_item_url>
+				<ht:news_item_source>Infobae.com</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Newell's vs Boca Juniors</title>
+			<ht:approx_traffic>5,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CO#Newell's%20vs%20Boca%20Juniors</link>
+			<pubDate>Mon, 22 Feb 2021 00:00:00 -0500</pubDate>
+			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcQLpFI_8cmm1dkoqepoltBKNbujtvG2KXAq7xNGdnLb4S6e9qw6r8-9qprgZDTaKnzB2RRNQsBC</ht:picture>
+			<ht:picture_source>Antena 2</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Newell&amp;#39;s vs Boca Juniors: cómo y dónde ver el partido ONLINE EN ...</ht:news_item_title>
+				<ht:news_item_snippet>Lejos de lo esperado, Boca Juniors se cruza ante Newell&amp;#39;s Old Boys en el estadio Marcelo Bielsa por la segunda fecha del campeonato argentino. El debut del&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.antena2.com/futbol/superliga-argentina/newells-vs-boca-juniors-como-y-donde-ver-el-partido-online-en-vivo-0</ht:news_item_url>
+				<ht:news_item_source>Antena 2</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Con Carlos Zambrano, Boca Juniors sumó su primer triunfo de la ...</ht:news_item_title>
+				<ht:news_item_snippet>Boca Juniors de Carlos Zambrano venció 1-0 a Newell&amp;#39;s por la Copa de la Liga Profesional de Argentina.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.futbolperuano.com/peruanos-en-el-exterior/noticias/newells-vs-boca-juniors-en-vivo-con-carlos-zambrano-por-la-copa-de-la-liga-profesional-296233</ht:news_item_url>
+				<ht:news_item_source>Futbolperuano.com</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
 			<title>Duvan Vergara</title>
 			<ht:approx_traffic>5,000+</ht:approx_traffic>
 			<description></description>
@@ -162,24 +183,9 @@
 			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>Reportan 15 muertes y 420 casos nuevos de covid-19 en el Valle ...</ht:news_item_title>
-				<ht:news_item_snippet>Duván Vergara, según Tulio Gómez, es el futbolista más costoso del campeonato colombiano. Su costó sería de 4.5 millones de euros.</ht:news_item_snippet>
+				<ht:news_item_snippet>Duván Vergara, la gran figura del América de Cali, podría pasar en las próximas semanas al fútbol internacional. El extremo, que ha sido campeón con el&amp;nbsp;...</ht:news_item_snippet>
 				<ht:news_item_url>https://www.elpais.com.co/america-de-cali/duvan-vergara-se-va-para-el-sao-paulo-esto-dijo-tulio-gomez-maximo-accionista-del-america.html</ht:news_item_url>
 				<ht:news_item_source>El País – Cali</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>Sevilla</title>
-			<ht:approx_traffic>5,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sevilla</link>
-			<pubDate>Mon, 22 Feb 2021 16:00:00 -0500</pubDate>
-			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcQPLCMOi3eHBeretkTo-HtMkW7SWqKBwfaQVXAf9h557np6k4GwphnM9OJYTHE3eF7LQcCL1dtz</ht:picture>
-			<ht:picture_source>ElTiempo.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Piden retirar estatua de Bolívar en Sevilla; lo tildan de &amp;#39;asesino&amp;#39;</ht:news_item_title>
-				<ht:news_item_snippet>Por medio de una carta dirigida a Juan Espadas Cejas, alcalde de Sevilla, España, la asociación profesional de militares &amp;#39;Tercios Viejos Españoles&amp;#39; (Tervies),&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.eltiempo.com/mundo/europa/piden-retirar-estatua-de-simon-bolivar-de-plaza-espala-en-sevilla-568655</ht:news_item_url>
-				<ht:news_item_source>ElTiempo.com</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -188,19 +194,19 @@
 			<description></description>
 			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CO#Porto</link>
 			<pubDate>Mon, 22 Feb 2021 16:00:00 -0500</pubDate>
-			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcQ6XynZ-b0nYolpHIKaaKcDKLz-GoCyotxJ654dTb65w7h0QZLIxvcnacQCX9ku_z6DSgiUlojo</ht:picture>
-			<ht:picture_source>Pulzo</ht:picture_source>
+			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcTUrfsw5iXi5i6G7oO54lW10QNrm6OuPnT0MVPL7VSb6Rb2WgqupTwxRKNVKgG7uSP8ez_v9fo5</ht:picture>
+			<ht:picture_source>Semana.com</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>En video | ¡Gol colombiano en Portugal! Matheus Uribe anotó en la ...</ht:news_item_title>
+				<ht:news_item_snippet>Después de vencer a la Juventus de Italia, el volante colombiano y Luis Díaz fueron titulares en la fecha 20 del certamen local.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.semana.com/deportes/futbol/articulo/en-video-gol-colombiano-en-portugal-matheus-uribe-anoto-en-la-victoria-del-porto/202155/</ht:news_item_url>
+				<ht:news_item_source>Semana.com</ht:news_item_source>
+			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>Luis Díaz y Mateus Uribe, titulares con Porto en la visita a Marítimo ...</ht:news_item_title>
 				<ht:news_item_snippet>Una vez más hay dupla de colombianos en la titular de los &amp;#39;dragones&amp;#39;, este lunes a las 2:00 p.m., en el cierre de la jornada 20, de la liga portuguesa.</ht:news_item_snippet>
 				<ht:news_item_url>https://gol.caracoltv.com/colombianos-en-el-exterior/luis-diaz-y-mateus-uribe-titulares-en-porto-en-la-visita-a-maritimo-por-la-liga-de-portugal</ht:news_item_url>
 				<ht:news_item_source>Gol Caracol</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>[Video] Mateus Uribe, golazo de viveza y figurota con el Porto en ...</ht:news_item_title>
-				<ht:news_item_snippet>El volante colombiano abrió el marcador en el triunfo 1-2 en condición de visitante frente al club Marítimo, en el cierre de fecha 20 de la liga portuguesa.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.pulzo.com/deportes/mateus-uribe-gol-figura-con-porto-maritimo-liga-portugal-PP1033121</ht:news_item_url>
-				<ht:news_item_source>Pulzo</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -260,10 +266,10 @@
 				<ht:news_item_source>Semana.com</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Barcelona vs Cádiz: resultado, resumen y goles del partido de la ...</ht:news_item_title>
-				<ht:news_item_snippet>Marcador final: Barcelona 1-1 CádizFrustración total de Barcelona que no logró liquidar el encuentro que estaba ganando desde el minuto 30 tras...</ht:news_item_snippet>
-				<ht:news_item_url>https://co.marca.com/claro/futbol-internacional/liga-espanola/2021/02/21/60324e2a22601dca038b45c2.html</ht:news_item_url>
-				<ht:news_item_source>Marca Claro Colombia</ht:news_item_source>
+				<ht:news_item_title>Barcelona vs. Cádiz - Reporte del Partido - 21 febrero, 2021 - ESPN</ht:news_item_title>
+				<ht:news_item_snippet>BARCELONA (Jordi Blanco, corresponsal) -- El Barcelona sufrió un domingo de pesadilla en el peor momento. Cinco días después de ser avasallado por el&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.espn.com.co/futbol/reporte?juegoId=581964</ht:news_item_url>
+				<ht:news_item_source>ESPN</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -323,10 +329,10 @@
 				<ht:news_item_source>infobae América</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>La burla del Mónaco al Barcelona tras derrotar al PSG</ht:news_item_title>
-				<ht:news_item_snippet>Después de ganarle al PSG en Liga, el Mónaco no dudó en unirse a la burla al Barcelona por su pasada actuación en Champions.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.kienyke.com/futbol/burla-de-monaco-al-barcelona-tras-derrotar-al-psg</ht:news_item_url>
-				<ht:news_item_source>KienyKe</ht:news_item_source>
+				<ht:news_item_title>Empresa dueña del PSG multada con 700.000 euros</ht:news_item_title>
+				<ht:news_item_snippet>La compañía ha sido sancionada debido a retrasos en el pago a sus proveedores.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.elheraldo.co/deportes/empresa-duena-del-psg-multada-con-700000-euros-796726</ht:news_item_url>
+				<ht:news_item_source>El Heraldo (Colombia)</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -344,10 +350,10 @@
 				<ht:news_item_source>ESPN</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>¿Cuándo juega Arsenal vs. Manchester City y dónde ver el partido ...</ht:news_item_title>
-				<ht:news_item_snippet>El encuentro se disputará este domingo sobre el medio día en el Emirates de Londres.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.semana.com/deportes/articulo/cuando-juega-arsenal-vs-manchester-city-y-donde-ver-el-partido-online/202101/</ht:news_item_url>
-				<ht:news_item_source>Semana.com</ht:news_item_source>
+				<ht:news_item_title>Pronóstico Arsenal vs Manchester City</ht:news_item_title>
+				<ht:news_item_snippet>El Manchester City buscará continuar su marcha hacia el título de la Premier League cuando se enfrente al Arsenal en el Emirates Stadium.</ht:news_item_snippet>
+				<ht:news_item_url>https://naciondeportes.com/pronostico-arsenal-vs-manchester-city/</ht:news_item_url>
+				<ht:news_item_source>Nación Deportes</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -365,10 +371,10 @@
 				<ht:news_item_source>Marca Claro Colombia</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>[VIDEO] Conexión Colombia: desborde de Muriel, cabezazo de ...</ht:news_item_title>
-				<ht:news_item_snippet>El &amp;#39;Toro&amp;#39; abrió el marcador, asistido por un Muriel que sigue enchufado.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.antena2.com/futbol/serie-a-italia/video-conexion-colombia-desborde-de-muriel-cabezazo-de-zapata-y-gol-de</ht:news_item_url>
-				<ht:news_item_source>Antena 2</ht:news_item_source>
+				<ht:news_item_title>VIDEO | Goles y asistencias de Muriel y Zapata en Atalanta VS ...</ht:news_item_title>
+				<ht:news_item_snippet>Buen partido de Muriel y Zapata en Atalanta VS Napoli por Fecha 23 de Serie A 2020-21, pues el primero asistió al segundo en el primer gol del partido.</ht:news_item_snippet>
+				<ht:news_item_url>https://comutricolor.com/en-los-medios/video-muriel-y-zapata-en-atalanta-vs-napoli-por-fecha-23/</ht:news_item_url>
+				<ht:news_item_source>Comutricolor</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -384,12 +390,6 @@
 				<ht:news_item_snippet>Sigue las noticias del fútbol más importantes del día EN VIVO y EN DIRECTO con Barcelona, Real Madrid, Bayern Munich, PSG y más clubes protagonistas de&amp;nbsp;...</ht:news_item_snippet>
 				<ht:news_item_url>https://depor.com/futbol-internacional/resto-del-mundo/real-madrid-barcelona-y-noticias-del-futbol-mas-importantes-de-hoy-en-vivo-minuto-a-minuto-de-las-grandes-ligas-de-europa-y-sudamerica-en-directo-online-con-fichajes-y-mas-noticia/</ht:news_item_url>
 				<ht:news_item_source>Diario Depor</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Las decisiones fatales que cuestan millones a Real Madrid y ...</ht:news_item_title>
-				<ht:news_item_snippet>Millones de euros perdidos por malas decisiones.Jugadores asequibles que hoy son casi intocables. Real Madrid y Barcelona, errores a precio de oro.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.goal.com/es/noticias/las-decisiones-fatales-que-cuestan-millones-a-real-madrid-y/1fhsjiq6t6ccy1owc5sfns6n61</ht:news_item_url>
-				<ht:news_item_source>Goal.com</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>

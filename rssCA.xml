@@ -7,11 +7,11 @@
 		<atom:link href='https://trends.google.com/trends/trendingsearches/daily/rss?geo=CA' rel='self' type='application/rss+xml'/>
 		<item>
 			<title>Daft Punk</title>
-			<ht:approx_traffic>100,000+</ht:approx_traffic>
+			<ht:approx_traffic>200,000+</ht:approx_traffic>
 			<description>thomas bangalter, daft punk epilogue</description>
 			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#Daft%20Punk</link>
 			<pubDate>Mon, 22 Feb 2021 11:00:00 -0500</pubDate>
-			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcSHCzrp9LShGIhUF2u5FyeLS967VflTPwXy7wMWX1E4XBSH-JvSh13yFS5FaXHPKdCHgT-vL3K1</ht:picture>
+			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcTjSzSsFDjb6J-gYeHuguq-Ub4E6ocpIZd_0DYolh_quDQK9jW8rI33GsrsYkO09XOckJ70rJGR</ht:picture>
 			<ht:picture_source>Pitchfork</ht:picture_source>
 			<ht:news_item>
 				<ht:news_item_title>Daft Punk Break Up</ht:news_item_title>
@@ -24,27 +24,6 @@
 				<ht:news_item_snippet>Onde de choc sur la planète musique: c&amp;#39;est par une vidéo énigmatique postée sur les réseaux sociaux, sobrement intitulée «Épilogue», que les Français Daft&amp;nbsp;...</ht:news_item_snippet>
 				<ht:news_item_url>https://www.tvanouvelles.ca/2021/02/22/le-groupe-daft-punk-se-separe</ht:news_item_url>
 				<ht:news_item_source>TVA Nouvelles</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>Artemi Panarin</title>
-			<ht:approx_traffic>50,000+</ht:approx_traffic>
-			<description>Panarin</description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#Artemi%20Panarin</link>
-			<pubDate>Mon, 22 Feb 2021 11:00:00 -0500</pubDate>
-			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcTR_Bf75T9IP-PeQ_FB9RCdgo0KuWLNPVbeoK91GmTpI5PRetSqfYXv2CLu4TpI8vHQwdf5KK4F</ht:picture>
-			<ht:picture_source>ESPN</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>New York Rangers&amp;#39; Artemi Panarin taking leave after assault ...</ht:news_item_title>
-				<ht:news_item_snippet>Artemi Panarin is taking a personal leave of absence from the Rangers. The move comes after allegations surfaced in Russia that the winger was involved in a&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.espn.com/nhl/story/_/id/30945519/new-york-rangers-artemi-panarin-taking-leave-assault-allegations-surface</ht:news_item_url>
-				<ht:news_item_source>ESPN</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Rangers&amp;#39; Artemi Panarin takes leave of absence following abuse ...</ht:news_item_title>
-				<ht:news_item_snippet>The allegations come after Panarin made public comments against Russian president Vladimir Putin and showed support for opposition leader Alexei Navalny.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.cbssports.com/nhl/news/rangers-artemi-panarin-takes-leave-of-absence-following-abuse-allegations-from-russia/</ht:news_item_url>
-				<ht:news_item_source>CBSSports.com</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -69,18 +48,24 @@
 			</ht:news_item>
 		</item>
 		<item>
-			<title>Yahoo Finance</title>
+			<title>Artemi Panarin</title>
 			<ht:approx_traffic>50,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#Yahoo%20Finance</link>
-			<pubDate>Mon, 22 Feb 2021 14:00:00 -0500</pubDate>
-			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcTHnQcyz005KYA1qd4T4tyBkjSEuQHqZUTkkLbVf9MdtPkZYH7_CaUHRO5xUKV6PhOUkN-AlPzI</ht:picture>
-			<ht:picture_source>Yahoo Finance</ht:picture_source>
+			<description>Panarin</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#Artemi%20Panarin</link>
+			<pubDate>Mon, 22 Feb 2021 11:00:00 -0500</pubDate>
+			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcSgasunIgyJ2DrXbffQNy47foIAAIYLW7FZNRgmhFAXhlD3vkk2GOO6EeUxlMi9yFjjOKFUjEtY</ht:picture>
+			<ht:picture_source>ESPN</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Bitcoin Briefly Drops Below $48K as Analysts Say Rally Overdone ...</ht:news_item_title>
-				<ht:news_item_snippet>Bitcoin, the top cryptocurrency by market value, rebounded to above $53,000 as of 15:12 UTC, representing a roughly 7% drop over 24 hours, according to&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://finance.yahoo.com/news/bitcoin-drops-5-analysts-rally-121417462.html</ht:news_item_url>
-				<ht:news_item_source>Yahoo Finance</ht:news_item_source>
+				<ht:news_item_title>New York Rangers&amp;#39; Artemi Panarin taking leave after assault ...</ht:news_item_title>
+				<ht:news_item_snippet>Artemi Panarin is taking a personal leave of absence from the Rangers. The move comes after allegations surfaced in Russia that the winger was involved in a&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.espn.com/nhl/story/_/id/30945519/new-york-rangers-artemi-panarin-taking-leave-assault-allegations-surface</ht:news_item_url>
+				<ht:news_item_source>ESPN</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Histoire de violence : Artemi Panarin dément, mais quitte ...</ht:news_item_title>
+				<ht:news_item_snippet>L&amp;#39;attaquant des Rangers de New York Artemi Panarin a décidé de quitter momentanément son équipe après la diffusion, lundi, d&amp;#39;un article en Russie avançant&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.journaldemontreal.com/2021/02/22/au-cur-dune-histoire-de-violence-artemi-panarin-quitte-les-rangers</ht:news_item_url>
+				<ht:news_item_source>Le Journal de Montréal</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -98,16 +83,16 @@
 				<ht:news_item_source>Investor's Business Daily</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Tesla Stock: When Jim Cramer Would Buy the Dip</ht:news_item_title>
-				<ht:news_item_snippet>The company has reportedly stopped taking orders for the cheapest version of its Model Y electric SUV, and--according to Electrek--removed it from its online&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.thestreet.com/video/jim-cramers-advice-on-when-to-eye-tesla</ht:news_item_url>
-				<ht:news_item_source>TheStreet</ht:news_item_source>
+				<ht:news_item_title>Why Tesla Stock Fell Sharply on Monday</ht:news_item_title>
+				<ht:news_item_snippet>A chart showing a stock price falling. Image source: Getty Images. So what. Volatility should be expected from Tesla stock. It soared 743% last year as it won over&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.fool.com/investing/2021/02/22/why-tesla-stock-fell-sharply-on-monday/</ht:news_item_url>
+				<ht:news_item_source>Motley Fool</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
 			<title>Woody Allen</title>
-			<ht:approx_traffic>20,000+</ht:approx_traffic>
-			<description>dylan farrow, mia farrow, Ronan Farrow, Soon-Yi Previn</description>
+			<ht:approx_traffic>50,000+</ht:approx_traffic>
+			<description>dylan farrow, mia farrow, Ronan Farrow, Soon-Yi Previn, allen v farrow</description>
 			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#Woody%20Allen</link>
 			<pubDate>Mon, 22 Feb 2021 00:00:00 -0500</pubDate>
 			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcRtWe2P_gjzWYjrYdcguRGrw_eFth0mhjJMyKJsQYvTrGAfGkON0rMEC3J3rotdtNL1oSboKJ5Q</ht:picture>
@@ -119,36 +104,15 @@
 				<ht:news_item_source>Globalnews.ca</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Woody Allen trashes HBO&amp;#39;s &amp;#39;Allen v. Farrow&amp;#39; as &amp;#39;hatchet job&amp;#39;</ht:news_item_title>
-				<ht:news_item_snippet>Disgraced director Woody Allen and his wife, Soon-Yi Previn, called HBO&amp;#39;s new &amp;quot;Allen v. Farrow&amp;quot; docuseries a &amp;quot;hatchet job riddled with falsehoods.&amp;quot;</ht:news_item_snippet>
-				<ht:news_item_url>https://www.latimes.com/entertainment-arts/tv/story/2021-02-22/woody-allen-hbo-documentary-response-soon-yi-previn</ht:news_item_url>
-				<ht:news_item_source>Los Angeles Times</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>CCIV stock</title>
-			<ht:approx_traffic>20,000+</ht:approx_traffic>
-			<description>CCIV</description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#CCIV%20stock</link>
-			<pubDate>Mon, 22 Feb 2021 10:00:00 -0500</pubDate>
-			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcR23C0XbOPxlPefW9zsTTa8NnGbCQp5nNdWQJ5PpAuDXd2Gk2d-S4DxdjWSl8lEDXAQN7uQ-DC_</ht:picture>
-			<ht:picture_source>Investorplace.com</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Churchill Capital IV Stock Is a Buy Despite Recent Run-Up</ht:news_item_title>
-				<ht:news_item_snippet>Luxury electric vehicle manufacturer Lucid Motors is on the fast track to expansion, so CCIV stock is worth owning even at a high valuation.</ht:news_item_snippet>
-				<ht:news_item_url>https://investorplace.com/2021/02/cciv-stock-is-a-buy-despite-rumor-fueled-run-up/</ht:news_item_url>
-				<ht:news_item_source>Investorplace.com</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Where Does Churchill Capital Corp IV (CCIV) Stock Fall in the Shell ...</ht:news_item_title>
-				<ht:news_item_snippet>Churchill Capital Corp IV (CCIV) is near the top in its industry group according to InvestorsObserver. CCIV gets an overall rating of 29. That means it scores&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.investorsobserver.com/news/stock-update/where-does-churchill-capital-corp-iv-cciv-stock-fall-in-the-shell-companies-field-after-it-has-gained-49-65-this-week</ht:news_item_url>
-				<ht:news_item_source>InvestorsObserver</ht:news_item_source>
+				<ht:news_item_title>Woody Allen and Soon-Yi Previn Call HBO Docuseries a &amp;#39;Shoddy ...</ht:news_item_title>
+				<ht:news_item_snippet>The series, “Allen v. Farrow,” takes a fresh look at Dylan Farrow&amp;#39;s sexual abuse allegations against Mr. Allen, her adoptive father.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.nytimes.com/2021/02/22/arts/television/woody-allen-soon-yi-previn-hbo.html</ht:news_item_url>
+				<ht:news_item_source>The New York Times</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
 			<title>Bobby Shmurda</title>
-			<ht:approx_traffic>20,000+</ht:approx_traffic>
+			<ht:approx_traffic>50,000+</ht:approx_traffic>
 			<description></description>
 			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bobby%20Shmurda</link>
 			<pubDate>Mon, 22 Feb 2021 10:00:00 -0500</pubDate>
@@ -168,6 +132,27 @@
 			</ht:news_item>
 		</item>
 		<item>
+			<title>CCIV stock</title>
+			<ht:approx_traffic>20,000+</ht:approx_traffic>
+			<description>CCIV</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#CCIV%20stock</link>
+			<pubDate>Mon, 22 Feb 2021 10:00:00 -0500</pubDate>
+			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcR23C0XbOPxlPefW9zsTTa8NnGbCQp5nNdWQJ5PpAuDXd2Gk2d-S4DxdjWSl8lEDXAQN7uQ-DC_</ht:picture>
+			<ht:picture_source>Investorplace.com</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Churchill Capital IV Stock Is a Buy Despite Recent Run-Up</ht:news_item_title>
+				<ht:news_item_snippet>Luxury electric vehicle manufacturer Lucid Motors is on the fast track to expansion, so CCIV stock is worth owning even at a high valuation.</ht:news_item_snippet>
+				<ht:news_item_url>https://investorplace.com/2021/02/cciv-stock-is-a-buy-despite-rumor-fueled-run-up/</ht:news_item_url>
+				<ht:news_item_source>Investorplace.com</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Lucid Motors to Go Public in Merger with Churchill Capital Corp IV ...</ht:news_item_title>
+				<ht:news_item_snippet>Lucid Motors (&amp;quot;Lucid&amp;quot;), which is setting new standards for sustainable mobility with its advanced luxury EVs, and Churchill Capital Corp IV (NYSE: CCIV) (&amp;quot;CCIV&amp;quot;&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://finance.yahoo.com/news/lucid-motors-public-merger-churchill-225500498.html</ht:news_item_url>
+				<ht:news_item_source>Yahoo Finance</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
 			<title>TurboTax</title>
 			<ht:approx_traffic>20,000+</ht:approx_traffic>
 			<description>turbotax canada</description>
@@ -183,24 +168,45 @@
 			</ht:news_item>
 		</item>
 		<item>
-			<title>NIO stock</title>
+			<title>Canucks</title>
 			<ht:approx_traffic>20,000+</ht:approx_traffic>
-			<description>nio</description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#NIO%20stock</link>
-			<pubDate>Mon, 22 Feb 2021 11:00:00 -0500</pubDate>
-			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcR3Y0DPXECsySN1In6VZUfkBQdqvL5C1E3NsDsVPy16bbD7epTrvXSxSo-6ausdq2chbh-uF2XK</ht:picture>
-			<ht:picture_source>Motley Fool</ht:picture_source>
+			<description>vancouver canucks</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks</link>
+			<pubDate>Mon, 22 Feb 2021 09:00:00 -0500</pubDate>
+			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcRX1BJVXnaY-xiAIHONLiaw2zdM9B7Eq37-izDmWFKQg5GrkaVyu0GbaylFVDH5cJ_bGRFlddco</ht:picture>
+			<ht:picture_source>The Hockey Writers</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Why NIO Stock Is Down Today</ht:news_item_title>
-				<ht:news_item_snippet>As of 1:15 p.m. EST, NIO&amp;#39;s American depositary shares were down about 5.5% from Friday&amp;#39;s closing price. So what. While there are good reasons to be bullish on&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.fool.com/investing/2021/02/22/why-nio-stock-is-down-today/</ht:news_item_url>
-				<ht:news_item_source>Motley Fool</ht:news_item_source>
+				<ht:news_item_title>Vancouver Canucks News &amp;amp; Rumors: Pettersson, Boeser, Miller ...</ht:news_item_title>
+				<ht:news_item_snippet>Except for Elias Pettersson&amp;#39;s last-minute third-period goal, the Vancouver Canucks would have blown the game completely. What happened?</ht:news_item_snippet>
+				<ht:news_item_url>https://thehockeywriters.com/vancouver-canucks-pettersson-boeser-miller-hughes/</ht:news_item_url>
+				<ht:news_item_source>The Hockey Writers</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Nio Stock Falls 7% As Session Comes To An End On Monday ...</ht:news_item_title>
-				<ht:news_item_snippet>Shares of Nio dropped 7.83% to $50.73 at 15:46 EST on Monday, following last session&amp;#39;s upward trend. NYSE Composite is jumping 0.27% to $15,404.58,&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://via.news/markets/nio-stock-falls-7-as-session-comes-to-an-end-on-monday-underperforms-market/</ht:news_item_url>
-				<ht:news_item_source>Via News Agency</ht:news_item_source>
+				<ht:news_item_title>The Vancouver Canucks aren&amp;#39;t the only Canadian team facing a ...</ht:news_item_title>
+				<ht:news_item_snippet>The Canucks had a power play last night with seven minutes remaining, and the fivesome of JT Miller, Bo Horvat, Brock Boeser, Elias Pettersson and Quinn&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.nucksmisconduct.com/2021/2/22/22295283/vancouver-canucks-depth-crisis-edmonton-oilers-calgary-flames</ht:news_item_url>
+				<ht:news_item_source>Nucks Misconduct</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Apple stock</title>
+			<ht:approx_traffic>20,000+</ht:approx_traffic>
+			<description>nio, microsoft stock</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#Apple%20stock</link>
+			<pubDate>Mon, 22 Feb 2021 12:00:00 -0500</pubDate>
+			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcReTAoFcSzoWpToFhtRIrXAw-fG50AhT5SG9_EPuYlJgHUSUNPkhMt6346sDTJo8mxzP2BtdzAu</ht:picture>
+			<ht:picture_source>MarketWatch</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Apple Inc. stock underperforms Monday when compared to ...</ht:news_item_title>
+				<ht:news_item_snippet>Shares of Apple Inc. shed 2.98% to $126.00 Monday, on what proved to be an all-around mixed trading session for the stock market, with the Dow Jones...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.marketwatch.com/story/apple-inc-stock-underperforms-monday-when-compared-to-competitors-01614029509-fba796fe3a1b</ht:news_item_url>
+				<ht:news_item_source>MarketWatch</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Dow Rallies In Mixed Session; Apple, Tesla Flash Sell Signals ...</ht:news_item_title>
+				<ht:news_item_snippet>The Dow Jones rallied into positive territory. Apple stock and Tesla stock flashed sell signals. Treasury Secretary Janet Yellen issued a Bitcoin warning.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.investors.com/market-trend/stock-market-today/dow-jones-rallies-apple-stock-tesla-stock-sell-signals-janet-yellen-bitcoin-warning/</ht:news_item_url>
+				<ht:news_item_source>Investor's Business Daily</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -219,7 +225,7 @@
 			</ht:news_item>
 			<ht:news_item>
 				<ht:news_item_title>Epic Games&amp;#39; New Hire Has Investors Asking Questions</ht:news_item_title>
-				<ht:news_item_snippet>According to Nielsen&amp;#39;s video-gaming research company SuperData, Fortnite surpassed $1.8 billion in revenue in 2019 and was the highest-grossing game that&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_snippet>The success of Fortnite has catapulted founder and CEO Tim Sweeney onto the Forbes World&amp;#39;s Billionaires list with an estimated net worth of more than $5 billion.</ht:news_item_snippet>
 				<ht:news_item_url>https://www.fool.com/investing/2021/02/22/epic-games-recent-hire-is-raising-eyebrows/</ht:news_item_url>
 				<ht:news_item_source>Motley Fool</ht:news_item_source>
 			</ht:news_item>
@@ -239,10 +245,10 @@
 				<ht:news_item_source>Sportsnet.ca</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Raptors assistant coach leaves team to become head coach of ...</ht:news_item_title>
-				<ht:news_item_snippet>Minnesota hired former Toronto Raptors assistant Chris Finch as head coach on Monday just hours after the Timberwolves fired Ryan Saunders following&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.cbc.ca/sports/basketball/nba/timberworlves-hire-chris-finch-as-head-coach-1.5922837</ht:news_item_url>
-				<ht:news_item_source>CBC.ca</ht:news_item_source>
+				<ht:news_item_title>Minnesota Timberwolves Hire &amp;#39;Creative Basketball Mind&amp;#39; In Toronto ...</ht:news_item_title>
+				<ht:news_item_snippet>The Minnesota Timberwolves have hired Toronto Raptors assistant coach Chris Finch as their new head coach.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.forbes.com/sites/curtisrush/2021/02/22/minnesota-timberwolves-hire-creative-basketball-mind-in-toronto-raptors-assistant-chris-finch/</ht:news_item_url>
+				<ht:news_item_source>Forbes</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -261,45 +267,24 @@
 			</ht:news_item>
 		</item>
 		<item>
-			<title>Canucks</title>
+			<title>NIO) stock</title>
 			<ht:approx_traffic>20,000+</ht:approx_traffic>
 			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks</link>
-			<pubDate>Mon, 22 Feb 2021 09:00:00 -0500</pubDate>
-			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcRX1BJVXnaY-xiAIHONLiaw2zdM9B7Eq37-izDmWFKQg5GrkaVyu0GbaylFVDH5cJ_bGRFlddco</ht:picture>
-			<ht:picture_source>The Hockey Writers</ht:picture_source>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#NIO)%20stock</link>
+			<pubDate>Mon, 22 Feb 2021 11:00:00 -0500</pubDate>
+			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcR3Y0DPXECsySN1In6VZUfkBQdqvL5C1E3NsDsVPy16bbD7epTrvXSxSo-6ausdq2chbh-uF2XK</ht:picture>
+			<ht:picture_source>Motley Fool</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Vancouver Canucks News &amp;amp; Rumors: Pettersson, Boeser, Miller ...</ht:news_item_title>
-				<ht:news_item_snippet>Except for Elias Pettersson&amp;#39;s last-minute third-period goal, the Vancouver Canucks would have blown the game completely. What happened?</ht:news_item_snippet>
-				<ht:news_item_url>https://thehockeywriters.com/vancouver-canucks-pettersson-boeser-miller-hughes/</ht:news_item_url>
-				<ht:news_item_source>The Hockey Writers</ht:news_item_source>
+				<ht:news_item_title>Why NIO Stock Is Down Today</ht:news_item_title>
+				<ht:news_item_snippet>Shares of Chinese electric vehicle maker NIO (NYSE:NIO) were trading lower on Monday. There was no obvious news driving shares lower, but it may have&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.fool.com/investing/2021/02/22/why-nio-stock-is-down-today/</ht:news_item_url>
+				<ht:news_item_source>Motley Fool</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Canucks: J.T. Miller needs to find consistency</ht:news_item_title>
-				<ht:news_item_snippet>J.T. Miller was one of the best players on the Vancouver Canucks last season. This year. he looks like a complete different player.</ht:news_item_snippet>
-				<ht:news_item_url>https://thecanuckway.com/2021/02/22/canucks-j-t-miller-needs-find-consistency/</ht:news_item_url>
-				<ht:news_item_source>The Canuck Way</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>H&amp;R Block</title>
-			<ht:approx_traffic>20,000+</ht:approx_traffic>
-			<description>h and r block, hr block</description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#H%26R%20Block</link>
-			<pubDate>Mon, 22 Feb 2021 12:00:00 -0500</pubDate>
-			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcSM8TpySetBhieSJuQ7yphCArgUNou8JN3C40nfo2EvtAgyY82_iE--br72pXhPFdVfyUuftLrG</ht:picture>
-			<ht:picture_source>Kansas City Business Journal</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>H&amp;amp;R Block Providing Help to Associates, Customers, and ...</ht:news_item_title>
-				<ht:news_item_snippet>KANSAS CITY, Mo., Feb. 22, 2021 (GLOBE NEWSWIRE) -- Millions of Americans have been affected by the recent winter storm that brought catastrophic power.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.globenewswire.com/news-release/2021/02/22/2179891/0/en/H-R-Block-Providing-Help-to-Associates-Customers-and-Communities-Recovering-from-Historic-Winter-Storm.html</ht:news_item_url>
-				<ht:news_item_source>GlobeNewswire</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>H&amp;amp;R Block, Urban League team up to help minority business</ht:news_item_title>
-				<ht:news_item_snippet>H&amp;amp;R Block formed a partnership with the Urban League of Greater Kansas City to help more minority-owned small businesses survive and thrive by getting them&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.bizjournals.com/kansascity/news/2021/02/22/hr-block-urban-league-minority-business-support.html</ht:news_item_url>
-				<ht:news_item_source>Kansas City Business Journal</ht:news_item_source>
+				<ht:news_item_title>Falling Out of Favor, Nio Stock Could Continue to Slide</ht:news_item_title>
+				<ht:news_item_snippet>Between investors cashing out, and potential competition on the horizon, there&amp;#39;s more at play that could further sink Nio stock.</ht:news_item_snippet>
+				<ht:news_item_url>https://investorplace.com/2021/02/nio-stock-falling-out-favor/</ht:news_item_url>
+				<ht:news_item_source>Investorplace.com</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -318,45 +303,81 @@
 			</ht:news_item>
 		</item>
 		<item>
-			<title>Apple stock</title>
+			<title>Meteor Edmonton</title>
 			<ht:approx_traffic>20,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#Apple%20stock</link>
-			<pubDate>Mon, 22 Feb 2021 12:00:00 -0500</pubDate>
-			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcQcRecWJ8qjWdVoePvfzUPk-gRTv2qFq7lZN4nkaXZI6nYKShSQcMiV_xFkE_lxjD1FdicwXysp</ht:picture>
-			<ht:picture_source>Report Door</ht:picture_source>
+			<description>meteor, edmonton meteor</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#Meteor%20Edmonton</link>
+			<pubDate>Mon, 22 Feb 2021 13:00:00 -0500</pubDate>
+			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcS2pA7abObCW1iy05AvVpmk8T_fhqZXp9Cag59NMXtBPDQSYjGmrYtYG-guWOp_D3xt9MpNzE2i</ht:picture>
+			<ht:picture_source>CTV Edmonton</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Dow Rallies In Mixed Session; Apple, Tesla Flash Sell Signals ...</ht:news_item_title>
-				<ht:news_item_snippet>The Dow Jones rallied into positive territory. Apple stock and Tesla stock flashed sell signals. Treasury Secretary Janet Yellen issued a Bitcoin warning.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.investors.com/market-trend/stock-market-today/dow-jones-rallies-apple-stock-tesla-stock-sell-signals-janet-yellen-bitcoin-warning/</ht:news_item_url>
-				<ht:news_item_source>Investor's Business Daily</ht:news_item_source>
+				<ht:news_item_title>Did you see it? Alberta&amp;#39;s northern sky lit up by meteor Monday morning</ht:news_item_title>
+				<ht:news_item_snippet>Residents from the Edmonton area all the way to the town of Falher in Peace Country reported a streak of light and bright flash in the north at 6:23 a.m..</ht:news_item_snippet>
+				<ht:news_item_url>https://edmonton.ctvnews.ca/did-you-see-it-alberta-s-northern-sky-lit-up-by-meteor-monday-morning-1.5318749</ht:news_item_url>
+				<ht:news_item_source>CTV Edmonton</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Dow Jones Futures: Tech Stocks Sell Off As Tesla Stock Dives; 3 ...</ht:news_item_title>
-				<ht:news_item_snippet>Dow Jones futures, along with S&amp;amp;P 500 futures and Nasdaq 100 futures, were little changed late Monday after tech stocks sold off sharply. Bitcoin.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.reportdoor.com/dow-jones-futures-tech-stocks-sell-off-as-tesla-stock-dives-3-earnings-movers-late/</ht:news_item_url>
-				<ht:news_item_source>Report Door</ht:news_item_source>
+				<ht:news_item_title>Edmonton weather: Waking up to a lot of wind, oh, and a meteor</ht:news_item_title>
+				<ht:news_item_snippet>Monday morning temperatures at the Edmonton Blatchford station measured 3.9 C with 26 km/h winds gusting to 38 km/h out of the west, northwest.</ht:news_item_snippet>
+				<ht:news_item_url>https://edmontonjournal.com/news/local-news/edmonton-weather-waking-up-to-a-lot-of-wind-oh-and-a-meteor</ht:news_item_url>
+				<ht:news_item_source>Edmonton Journal</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
-			<title>BTC</title>
+			<title>Juventus</title>
 			<ht:approx_traffic>10,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#BTC</link>
+			<description>juventus vs crotone</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#Juventus</link>
 			<pubDate>Mon, 22 Feb 2021 17:00:00 -0500</pubDate>
-			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcR6mP0KQnigtMx3FLanvDim_2iJypMgP_BRsx3LZu7OV4AO-Zj4dBy-cYRCPez_uRzPFA2NT-ox</ht:picture>
-			<ht:picture_source>Bloomberg</ht:picture_source>
+			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcT-10jgU98xCq9Gr7wht6v2sb_id8zGMAubwKn3DpOUC94VbidNNLULEE25cIAOVs43nwk8CId9</ht:picture>
+			<ht:picture_source>Toronto Star</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Bitcoin Declines After Musk Hints That Prices Are Excessive</ht:news_item_title>
-				<ht:news_item_snippet>Elon Musk&amp;#39;s embrace of Bitcoin earlier this month rocketed the cryptocurrency almost 50% higher to more than $58000. His cold shoulder this weekend&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.bloomberg.com/news/articles/2021-02-22/bitcoin-pulls-back-from-record-as-prices-give-up-weekend-gains</ht:news_item_url>
-				<ht:news_item_source>Bloomberg</ht:news_item_source>
+				<ht:news_item_title>Ronaldo scores 2 as Juventus beats Crotone 3-0 in Serie A</ht:news_item_title>
+				<ht:news_item_snippet>TURIN, Italy - Cristiano Ronaldo scored twice as Juventus got back to winning ways by beating bottom club Crotone 3-0 in Serie A on Monday.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.thestar.com/sports/soccer/2021/02/22/ronaldo-scores-2-as-juventus-beats-crotone-3-0-in-serie-a.html</ht:news_item_url>
+				<ht:news_item_source>Toronto Star</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Bitcoin tanks 10% after Elon Musk says prices seem high</ht:news_item_title>
-				<ht:news_item_snippet>The world&amp;#39;s most valuable cryptocurrency sank over 10% to a price of $51,993 Monday morning, according to data from Coin Metrics. At one point, bitcoin had&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.cnbc.com/2021/02/22/bitcoin-btc-price-down-10percent-after-elon-musk-says-prices-seem-high.html</ht:news_item_url>
-				<ht:news_item_source>CNBC</ht:news_item_source>
+				<ht:news_item_title>Juventus vs. Crotone - Football Match Report - February 22, 2021 ...</ht:news_item_title>
+				<ht:news_item_snippet>Cristiano Ronaldo scored twice as Juventus strolled to a 3-0 home win over bottom side Crotone in Serie A on Monday, with the victory taking the champions up&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.espn.com/soccer/report?gameId=582931</ht:news_item_url>
+				<ht:news_item_source>ESPN</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>H&amp;R Block</title>
+			<ht:approx_traffic>10,000+</ht:approx_traffic>
+			<description>hr block</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#H%26R%20Block</link>
+			<pubDate>Mon, 22 Feb 2021 12:00:00 -0500</pubDate>
+			<ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcSM8TpySetBhieSJuQ7yphCArgUNou8JN3C40nfo2EvtAgyY82_iE--br72pXhPFdVfyUuftLrG</ht:picture>
+			<ht:picture_source>Kansas City Business Journal</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>H&amp;amp;R Block Providing Help to Associates, Customers, and ...</ht:news_item_title>
+				<ht:news_item_snippet>KANSAS CITY, Mo., Feb. 22, 2021 (GLOBE NEWSWIRE) -- Millions of Americans have been affected by the recent winter storm that brought catastrophic power.</ht:news_item_snippet>
+				<ht:news_item_url>https://www.globenewswire.com/news-release/2021/02/22/2179891/0/en/H-R-Block-Providing-Help-to-Associates-Customers-and-Communities-Recovering-from-Historic-Winter-Storm.html</ht:news_item_url>
+				<ht:news_item_source>GlobeNewswire</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>H&amp;amp;R Block, Urban League team up to help minority business</ht:news_item_title>
+				<ht:news_item_snippet>H&amp;amp;R Block formed a partnership with the Urban League of Greater Kansas City to help more minority-owned small businesses survive and thrive by getting them&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.bizjournals.com/kansascity/news/2021/02/22/hr-block-urban-league-minority-business-support.html</ht:news_item_url>
+				<ht:news_item_source>Kansas City Business Journal</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>TSLA</title>
+			<ht:approx_traffic>10,000+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#TSLA</link>
+			<pubDate>Mon, 22 Feb 2021 11:00:00 -0500</pubDate>
+			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcS4kMa9L2IHzoEDjF8d1a3sVwTAgQ0cZwaKjoFz7iMZ3lq-Y551rng_VD3r01Dr05KKIcNrvhHd6w</ht:picture>
+			<ht:picture_source>Seeking Alpha</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Asia Set To Boost Tesla&amp;#39;s Energy Storage Numbers</ht:news_item_title>
+				<ht:news_item_snippet>Tesla made strong progress worldwide in energy storage business in 2020. Asian economic growth and government policies will give further spur to Tesla&amp;#39;s&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://seekingalpha.com/article/4407903-asia-set-to-boost-tesla-energy-storage-numbers</ht:news_item_url>
+				<ht:news_item_source>Seeking Alpha</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -372,27 +393,6 @@
 				<ht:news_item_snippet>It allows users to optimize productivity with seamless calling from within the Microsoft Teams application via Star2Star&amp;#39;s cloud-based, direct routing integration.</ht:news_item_snippet>
 				<ht:news_item_url>https://aithority.com/cognitive-science/voice/star2star-releases-star2star-business-voice-for-microsoft-teams/</ht:news_item_url>
 				<ht:news_item_source>AiThority</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>TSLA</title>
-			<ht:approx_traffic>10,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=CA#TSLA</link>
-			<pubDate>Mon, 22 Feb 2021 11:00:00 -0500</pubDate>
-			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcS4kMa9L2IHzoEDjF8d1a3sVwTAgQ0cZwaKjoFz7iMZ3lq-Y551rng_VD3r01Dr05KKIcNrvhHd6w</ht:picture>
-			<ht:picture_source>Seeking Alpha</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Tesla leads electric vehicle sector down as investors test drive value ...</ht:news_item_title>
-				<ht:news_item_snippet>Tesla (TSLA) fell sharply on a day that other electric vehicle stocks like GreenPower (GP), Lordstown Motors (RIDE), XPeng (XPEV) amd Canoo also dropped.</ht:news_item_snippet>
-				<ht:news_item_url>https://seekingalpha.com/news/3664556-tesla-leads-electric-vehicle-sector-down-as-investors-test-drive-value-stocks</ht:news_item_url>
-				<ht:news_item_source>Seeking Alpha</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Asia Set To Boost Tesla&amp;#39;s Energy Storage Numbers</ht:news_item_title>
-				<ht:news_item_snippet>Tesla made strong progress worldwide in energy storage business in 2020. Asian economic growth and government policies will give further spur to Tesla&amp;#39;s&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://seekingalpha.com/article/4407903-asia-set-to-boost-tesla-energy-storage-numbers</ht:news_item_url>
-				<ht:news_item_source>Seeking Alpha</ht:news_item_source>
 			</ht:news_item>
 		</item>
 	</channel>
